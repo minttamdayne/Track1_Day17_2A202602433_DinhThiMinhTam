@@ -4,7 +4,7 @@
 
 </div>
 
-## Thành viên nhóm فتيات جميلات
+## 1. Thông tin nhóm فتيات جميلات
 Nhóm chọn case A
 
 | **STT** | **Họ và tên** | **Mã sinh viên (MSV)** | **Vai trò** |
@@ -13,9 +13,7 @@ Nhóm chọn case A
 | 2 | **Đinh Thị Minh Tâm** | `2A202602433` | **Thành viên** |
 | 3 | **Bùi Thị Ngọc Trân** | `2A202602529` | **Thành viên** |
 
-## Nội dung
-
-## Problem Hypothesis Brief
+## 2. Problem Hypothesis Brief
 ### 2.1. Solution directive
 
 Học viên bấm nút “Tôi vẫn chưa hiểu”; hệ thống sử dụng nội dung bài hiện tại, các câu trả lời gần đây và lịch sử học tập để đặt một số câu hỏi chẩn đoán ngắn, xác định phần kiến thức nền cần xem lại, cung cấp một phần ôn tập ngắn và đưa học viên quay lại bài đang học.
@@ -155,13 +153,16 @@ Vì vậy:
 Điểm AI hỗ trợ chưa tốt / cần tự sửa
 - AI có thể suy luận quá nhanh từ solution sang “thiếu kiến thức nền”, trong khi đây mới chỉ là một hypothesis.
 - AI không thể tự coi các ghi chép chưa được kiểm chứng là evidence hệ thống.
-- Các claim như “tỉ lệ drop-out tăng”, “học viên thường làm sai lặp lại” hoặc quote khảo sát không được giữ như fact nếu nhóm không có dữ liệu thật để chứng minh.
-- Reflection cuối phải được chỉnh sau khi người nộp tự nghe lại recording.
-Interview files
+### Tệp phỏng vấn
+
+```text
 interview/
 ├── notes.md
-└── recording.m4a
-interview/notes.md chứa Interview Record của chính lượt người nộp làm interviewer.
+└── recording-link.md
+```
+
+`interview/notes.md` ghi người phỏng vấn là Đinh Thị Minh Tâm.
+
 Bản ghi chỉ được giữ để review bài học và không chia sẻ công khai ngoài phạm vi giảng viên/TA theo yêu cầu môn học.
 
 - [Ghi chú phỏng vấn](interview/notes.md)
