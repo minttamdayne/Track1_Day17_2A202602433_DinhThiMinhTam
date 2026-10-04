@@ -122,15 +122,12 @@ Việc sửa này giúp Conversation Guide bám sát Problem Hypothesis của Ca
 Phần này cần được người nộp tự xác nhận lại sau khi nghe bản ghi. Nội dung dưới đây là khung gợi ý dựa trên notes hiện có, không thay thế việc tự nghe lại cuộc phỏng vấn.
 
 ### 4.1. Câu hỏi nào đã giúp user kể một tình huống cụ thể?
-Gợi ý để tự hoàn thiện:
 Câu hỏi “Kể mình nghe về lần gần nhất bạn gặp một phần khó hiểu khi học hoặc tiếp cận kiến thức mới” giúp cuộc trò chuyện chuyển từ nhận xét chung sang một trải nghiệm cụ thể. Khi có một event rõ, các câu follow-up về hành động, workaround và hậu quả dễ khai thác hơn.
 
 ### 4.2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?
-Gợi ý để tự hoàn thiện:
 Ở lượt luyện, một số câu hỏi đi quá rộng sang câu chuyện chuyển ngành, công việc BA hoặc việc dùng AI trong công việc. Điều này khiến cuộc trò chuyện dễ rời khỏi pain chính của Case A. Lần sau cần neo sớm hơn vào một sự kiện học tập cụ thể và tiếp tục đào sâu “đã làm gì → vì sao → kết quả gì” thay vì mở rộng sang background nghề nghiệp.
 
 ### 4.3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?
-Gợi ý để tự hoàn thiện:
 Nhóm thu hẹp tiêu chí tuyển và Story Opener về một lần gần đây learner thực sự bị kẹt khi học. Big 3 cũng được sửa để kiểm tra ba vấn đề: nguyên nhân bị kẹt, workaround/chi phí và mức độ gấp của tình huống. Những câu hỏi về nghề nghiệp, chuyển ngành và ứng dụng kiến thức đi làm được loại bỏ vì không trực tiếp kiểm tra Problem Hypothesis của Case A.
 
 ### 4.4. Giới hạn của lượt luyện
